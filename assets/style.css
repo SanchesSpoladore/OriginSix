@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?bwnohs');
-  src:  url('fonts/icomoon.eot?bwnohs#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?bwnohs') format('truetype'),
-    url('fonts/icomoon.woff?bwnohs') format('woff'),
-    url('fonts/icomoon.svg?bwnohs#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?bwsuy7');
+  src:  url('fonts/icomoon.eot?bwsuy7#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?bwsuy7') format('truetype'),
+    url('fonts/icomoon.woff?bwsuy7') format('woff'),
+    url('fonts/icomoon.svg?bwsuy7#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,8 +25,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-phone:before {
+.icon-arrow-up:before {
   content: "\e900";
+}
+.icon-phone:before {
+  content: "\e908";
 }
 .icon-close:before {
   content: "\e901";
@@ -50,14 +53,14 @@
   content: "\e907";
 }
 .icon-trim:before {
-  content: "\e908";
-}
-.icon-whatsapp:before {
   content: "\e909";
 }
-.icon-woman-hair:before {
+.icon-whatsapp:before {
   content: "\e90a";
 }
-.icon-youtube:before {
+.icon-woman-hair:before {
   content: "\e90b";
+}
+.icon-youtube:before {
+  content: "\e90c";
 }
