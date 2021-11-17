@@ -42,7 +42,6 @@ body {
   color: var(--text-color);
   background: var(--body-color);
   -webkit-font-smoothing: antialiased;
-  overflow-x: hidden;
 }
 
 .title {
@@ -350,6 +349,8 @@ nav.show div.icon-close {
 #testimonials .container {
   margin-left: 0;
   margin-right: 0;
+  position: relative;
+  overflow: hidden;
 }
 
 #testimonials header {
@@ -603,6 +604,7 @@ footer i {
     font-size: 2.25rem;
   }
 }
+
 @media (min-width: 992px) {
   :root {
     --title-font-size: 2.25rem;
