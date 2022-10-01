@@ -1,19 +1,25 @@
 # OriginSix
 
+![](./.github/preview.png)
+
 ##  Conteúdo
 - [Sobre](#sobre)
-- [Links](#link)
+- [Link](#link)
 - [Tecnologias](#tecnologias)
+- [Autor](#autor)
 
 ## Sobre
-Projeto criado durante a [NLW Together na missão Origin](https://app.rocketseat.com.br/node/mission-origin). OriginSix é uma página institucional em formato landing page, responsiva, adequada a diferentes tipos de micro, pequenas e médias empresas.
+Projeto criado durante a NLW Together na missão Origin. OriginSix é uma página institucional em formato landing page, responsiva, adequada a diferentes tipos de micro, pequenas e médias empresas.
 
 ## Link
-- Site - https://originsix-rocketseat.netlify.app
+- Site - https://originsix-sanches.netlify.app
 
 ##  Tecnologias
-- HTML5
+- HTML
 - CSS
-- JS
+- Javascript
 - Swiper
 - Scroll Reveal
+
+## Autor
+- Site - https://sanches-spoladore.netlify.app
